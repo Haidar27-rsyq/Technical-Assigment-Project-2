@@ -1,0 +1,33 @@
+.container {
+    width: 375px;
+    height: 600px;
+    margin-left: 350px;
+    margin-top: 65px;
+    background-color: yellow;
+    padding-left: 30px;
+}
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: yellow;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px
+}    
+#height, #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+}
+
+#weight-guide{
+    margin-left: 75px;
+    margin-top: 25px;
+}
+
+#results{
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: blue;
+}
